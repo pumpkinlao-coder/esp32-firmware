@@ -1,6 +1,6 @@
 {
   "firmware": {
-    "version": "2.6.5",
+    "version": "2.6.10",
     "url": "https://pumpkinlao-coder.github.io/esp32-firmware/s3-2.16/xiaozhi.bin"
   }
 }
